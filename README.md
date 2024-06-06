@@ -1,6 +1,6 @@
 # Exploring ketosynthase substrate specificity with machine learning
 
-Welcome to the repository for my second PhD thesis chapter, which explores the proofreading phenomenon of ketosynthases. 
+Welcome to the repository for chapter two from my PhD thesis, which explores the proofreading phenomenon of ketosynthases. 
 
 In this repository, you will find a copy of chapter two (.pdf), which has been written as a standalone text for purposes of understanding this body of work in isolation. In this document, you will find an introduction to modular polyketide synthases, machine learning and structural biology, as well as the results and discussion produced from this body of work. This document was written with both biologists and computer scientists in mind – I have contained primers for both disciplines within the document and its footnotes. The document tracks my experience applying different methodologies of machine learning to structural data; if you are here because you are only interested in ketosynthases and acyltransferases, skip to the section on graph neural networks. 
 
