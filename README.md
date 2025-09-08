@@ -4,6 +4,8 @@ Welcome to the repository for "Graph Neural Networks predict ketosynthase substr
 
 In this repository, you will find all code and data associated with the paper. 
 
+A simplified script for making predictions on ketosynthase structures has been provided in folder 03. 
+
 If you have any questions or comments about this body of work, please send me an email:
 maxwalmsley@hotmail.co.uk 
 
